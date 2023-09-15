@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calcular Propina </string>
+    <string name="tvNum1">Consumo neto</string>
+    <string name="tvNum2">Personas</string>
+    <string name="btnResultado">Calcular propina total</string>
+</resources>
