@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
         tvRes = findViewById(R.id.tvRes)
         tvRes1 = findViewById(R.id.tvRes1)
 
+
+
         btnResultado.setOnClickListener {
             if(etNum1.text.isEmpty() || etNum2.text.isEmpty()){
                 tvRes.text = "Debes de escribir un numero"
